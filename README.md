@@ -1,2 +1,3 @@
 # Snake-Game
-This is the old version of snake game which we played in small nokia phones.
+This is an old version of snake game which you played in small nokia phones.
+
